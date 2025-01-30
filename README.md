@@ -1,1 +1,1 @@
-# human_resources
+# Human Resources
